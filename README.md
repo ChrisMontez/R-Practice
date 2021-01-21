@@ -1,5 +1,5 @@
 ## Objective
-Learn R
+Learn R Fundamentals 
 
 ## Progress
 - [x] Install and Configure R and RStudio on machine 
