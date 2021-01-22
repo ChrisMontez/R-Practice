@@ -3,6 +3,7 @@
 # between -1 and 1 
 # within a set of normally distributed random numbers 
 # with a mean of 0 and a stdev of 1
+
 # Tools Used:
 # [Counter, For-Loop, If-Statement]
 
